@@ -1,16 +1,15 @@
-# xylophone_flutter
+# Xylophone 🎹
 
-A new Flutter project.
+<img src="https://github.com/SmileyDoodle/xylophone-flutter/blob/main/images/example.png">
 
-## Getting Started
+## What I learnt
 
-This project is a starting point for a Flutter application.
+- How to incorporate open source libraries of code into your project using Flutter Packages.
+- How to play sound on both iOS and Android.
+- How to generate repeated user interface Widgets.
+- How to use Dart functions that can take input arguments as well as return an output.
+- What is the difference between var, const and final in Dart.
+- How to use Dart lists.
+- How to loop through code using a Dart for loop.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
